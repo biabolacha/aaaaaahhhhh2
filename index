@@ -1,0 +1,125 @@
+<title>TOY KIDS</title> logo da loja
+Produtos
+Serviços
+Contato
+Pagamentos
+<sect">
+<img class="coelho-imagem" src="./logo coelhod.jpeg" alt="imagem do coelho"
+    <div class=>
+        <h2 class="loja-titulo">Toy Kids</h2>
+        <p class="loja-texto">A Toy Kids e uma loja especializada em brinquedos e itens de colecionador.</p>
+        <p class="loja-texto">Além de vender brinquedos a Toy Kids tem uma area recreativa para crianças que é paga por hora, temos ,piscina de bolinhas,cama elastica, alugamos tambem para aniversarios. </p>
+        <p class="loja-texto">temos alimentos tematicos a personagens da sua escolha, o preço inicial e de $100, na praça de alimentação os preços começão com $30 *comida normal</p>
+        <p class="loja-texto">Com um compromisso com a excelência no atendimento e a aceitação do cliente, temos tambem o pacote fantacia que vem um personagem na festa, preço:$50 *por hora com fotos inclusas. </p>
+         
+    </div>
+    <img class="loja-imagem" src="" alt="imagem que representa a loja">
+</section>
+
+<section id="loja2">
+    <div class="aparelhos-div-imagem">
+        <h3 class="aparelhos-titulo">Descrição dos Aparelhos</h3>
+        <h4 class="aparelhos-titulo1">iPhone 14 Pro Max</h4>
+        <p class="aparelhos-texto">O Apple iPhone 14 Pro Max é um smartphone iOS com características inovadoras que o tornam uma excelente opção para qualquer tipo de utilização, representando um dos melhores dispositivos móveis já feitos. A tela de 6.7 polegadas coloca esse Apple no topo de sua categoria. A resolução também é alta: 2796x1290 pixel. As funcionalidades oferecidas pelo Apple iPhone 14 Pro Max são muitas e todas top de linha. Começando pelo 5G que permite a transferência de dados e excelente navegação na internet, além de conectividade Wi-fi e GPS presente no aparelho. Tem também leitor multimídia, videoconferência, e bluetooth. Enfatizamos a excelente memória interna de 1000 GB mas sem a possibilidade de expansão.
+            A excelência deste Apple iPhone 14 Pro Max é completada por uma câmera de 48 megapixels que permite tirar fotos fantásticas com uma resolução de 8000x6000 pixels e gravar vídeos em 4K a espantosa resolução de 3840x2160 pixels. A espessura de apenas 7.9 milímetros torna o Apple iPhone 14 Pro Max um dos telefones mais finos que existem.</p>
+            <img class="iphone-14-Pro-Max-imagem" src="./iphone 14 Pro Max.webp" alt="imagem que representa o iphone 14 Pro Max">
+            
+    </div>
+
+
+</section>
+<section id="loja3">
+    <div class="aparelhos-div-imagem">
+        <h6 class="aparelhos-titulo1">iPhone 13 Pro Max</h6>
+        <p class="aparelhos-texto">O Apple iPhone 13 Pro Max é um smartphone iOS com características inovadoras que o tornam uma excelente opção para qualquer tipo de utilização. A tela de 6.7 polegadas coloca esse Apple no topo de sua categoria. A resolução também é alta: 2778x1284 pixel. As funcionalidades oferecidas pelo Apple iPhone 13 Pro Max são muitas e top de linha. Começando pelo 5G que permite a transferência de dados e excelente navegação na internet, além de conectividade Wi-fi e GPS presente no aparelho. Tem também leitor multimídia, videoconferência, e bluetooth. Enfatizamos a excelente memória interna de 1000 GB mas sem a possibilidade de expansão.
+            Câmera de 12 megapixel. A espessura de apenas 7.7 milímetros torna o Apple iPhone 13 Pro Max um dos telefones mais finos que existem.</p>
+        <h7 class="aparelho-titulo1">iPhone 13 Pro</h7>
+        <p class="aparelhos-texto"> O Apple iPhone 13 Pro é um dos smartphones iOS mais avançados e completos que existem em circulação. Tem um grande display de 6.06 polegadas com uma resolução de 2532x1170 pixel. As funcionalidades oferecidas pelo Apple iPhone 13 Pro são muitas e inovadoras. Começando pelo 5G que permite a transferência de dados e excelente navegação na internet. Enfatizamos a excelente memória interna de 1000 GB mas sem a possibilidade de expansão.
+            Câmera discreta de 12 megapixel mas que permite ao Apple iPhone 13 Pro tirar fotos de boa qualidade com uma resolução de 4000x3000 pixel e gravar vídeos em 4K a espantosa resolução de 3840x2160 pixels. A espessura de 7.7mm torna o Apple iPhone 13 Pro um dos telefones mais completos e finos.</p>
+        <img class="iphone-13-Pro-Max-e-13-imagem" src="./iphone 13 pro e 13 pro max.jpg" alt="imagem que representa o iphone 13 Pro Max e 13 Pro">
+       
+    </div>
+
+</section>
+    <section id="video">
+        <video width="800" height="500"controls="controls" autoplay="autoplay">
+            <source src="./ AREA RE.mp4" type="video/mp4">
+            <object data="" width="0" height="300">
+            <embed width="0" height="300" src="iphone 13 Pro Max.mp4">
+</section><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TOY KIDS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<span>
+<body>
+    <header class="cabecalho"> 
+        <img class="cabecalho-imagem" src="./logo celular cabeçalho.png" alt="logo da loja">
+        <ul class="cabecalho-lista">
+            <li class="cabecalho-lista-item"><a href="https://www.instagram.com/deminski_store/">Produtos</a></li>
+            <li class="cabecalho-lista-item"><a href="https://www.instagram.com/deminski_store/">Serviços</a></li>
+            <li class="cabecalho-lista-item"><a href="https://www.instagram.com/deminski_store/">Contato</a></li>
+            <li class="cabecalho-lista-item"><a href="https://www.instagram.com/deminski_store/">Pagamentos</a></li>
+        </ul>
+    </header>
+
+
+    <sect">
+    <img class="coelho-imagem" src="./logo coelhod.jpeg" alt="imagem do coelho"
+        <div class=>
+            <h2 class="loja-titulo">Toy Kids</h2>
+            <p class="loja-texto">A Toy Kids e uma loja especializada em brinquedos e itens de colecionador.</p>
+            <p class="loja-texto">Além de vender brinquedos a Toy Kids tem uma area recreativa para crianças que é paga por hora, temos ,piscina de bolinhas,cama elastica, alugamos tambem para aniversarios. </p>
+            <p class="loja-texto">temos alimentos tematicos a personagens da sua escolha, o preço inicial e de $100, na praça de alimentação os preços começão com $30 *comida normal</p>
+            <p class="loja-texto">Com um compromisso com a excelência no atendimento e a aceitação do cliente, temos tambem o pacote fantacia que vem um personagem na festa, preço:$50 *por hora com fotos inclusas. </p>
+             
+        </div>
+        <img class="loja-imagem" src="" alt="imagem que representa a loja">
+    </section>
+
+    <section id="loja2">
+        <div class="aparelhos-div-imagem">
+            <h3 class="aparelhos-titulo">Descrição dos Aparelhos</h3>
+            <h4 class="aparelhos-titulo1">iPhone 14 Pro Max</h4>
+            <p class="aparelhos-texto">O Apple iPhone 14 Pro Max é um smartphone iOS com características inovadoras que o tornam uma excelente opção para qualquer tipo de utilização, representando um dos melhores dispositivos móveis já feitos. A tela de 6.7 polegadas coloca esse Apple no topo de sua categoria. A resolução também é alta: 2796x1290 pixel. As funcionalidades oferecidas pelo Apple iPhone 14 Pro Max são muitas e todas top de linha. Começando pelo 5G que permite a transferência de dados e excelente navegação na internet, além de conectividade Wi-fi e GPS presente no aparelho. Tem também leitor multimídia, videoconferência, e bluetooth. Enfatizamos a excelente memória interna de 1000 GB mas sem a possibilidade de expansão.
+                A excelência deste Apple iPhone 14 Pro Max é completada por uma câmera de 48 megapixels que permite tirar fotos fantásticas com uma resolução de 8000x6000 pixels e gravar vídeos em 4K a espantosa resolução de 3840x2160 pixels. A espessura de apenas 7.9 milímetros torna o Apple iPhone 14 Pro Max um dos telefones mais finos que existem.</p>
+                <img class="iphone-14-Pro-Max-imagem" src="./iphone 14 Pro Max.webp" alt="imagem que representa o iphone 14 Pro Max">
+                
+        </div>
+
+
+    </section>
+    <section id="loja3">
+        <div class="aparelhos-div-imagem">
+            <h6 class="aparelhos-titulo1">iPhone 13 Pro Max</h6>
+            <p class="aparelhos-texto">O Apple iPhone 13 Pro Max é um smartphone iOS com características inovadoras que o tornam uma excelente opção para qualquer tipo de utilização. A tela de 6.7 polegadas coloca esse Apple no topo de sua categoria. A resolução também é alta: 2778x1284 pixel. As funcionalidades oferecidas pelo Apple iPhone 13 Pro Max são muitas e top de linha. Começando pelo 5G que permite a transferência de dados e excelente navegação na internet, além de conectividade Wi-fi e GPS presente no aparelho. Tem também leitor multimídia, videoconferência, e bluetooth. Enfatizamos a excelente memória interna de 1000 GB mas sem a possibilidade de expansão.
+                Câmera de 12 megapixel. A espessura de apenas 7.7 milímetros torna o Apple iPhone 13 Pro Max um dos telefones mais finos que existem.</p>
+            <h7 class="aparelho-titulo1">iPhone 13 Pro</h7>
+            <p class="aparelhos-texto"> O Apple iPhone 13 Pro é um dos smartphones iOS mais avançados e completos que existem em circulação. Tem um grande display de 6.06 polegadas com uma resolução de 2532x1170 pixel. As funcionalidades oferecidas pelo Apple iPhone 13 Pro são muitas e inovadoras. Começando pelo 5G que permite a transferência de dados e excelente navegação na internet. Enfatizamos a excelente memória interna de 1000 GB mas sem a possibilidade de expansão.
+                Câmera discreta de 12 megapixel mas que permite ao Apple iPhone 13 Pro tirar fotos de boa qualidade com uma resolução de 4000x3000 pixel e gravar vídeos em 4K a espantosa resolução de 3840x2160 pixels. A espessura de 7.7mm torna o Apple iPhone 13 Pro um dos telefones mais completos e finos.</p>
+            <img class="iphone-13-Pro-Max-e-13-imagem" src="./iphone 13 pro e 13 pro max.jpg" alt="imagem que representa o iphone 13 Pro Max e 13 Pro">
+           
+        </div>
+
+    </section>
+        <section id="video">
+            <video width="800" height="500"controls="controls" autoplay="autoplay">
+                <source src="./ AREA RE.mp4" type="video/mp4">
+                <object data="" width="0" height="300">
+                <embed width="0" height="300" src="iphone 13 Pro Max.mp4">
+    </section>
+
+    <footer class="rodape">
+        <h8 class="nome-loja"> TOY KIDS </h8>;
+    </footer>
+
+</body>
+</html>
+
+<footer class="rodape">
+    <h8 class="nome-loja"> TOY KIDS </h8>;
+</footer>
